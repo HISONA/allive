@@ -1,4 +1,4 @@
-## Allive TV 
+## Allive TV (https://hisona.github.io/allive)
 
 * Allive TV 는 Android TV 에서 WAVVE 와 TVING 실시간 채널을 시청할 수 있는 AndroidTV 앱입니다. 
 * 이 프로젝트는 [ALL TV](https://github.com/PYTHONKOR/alltv) 에서 fork 된 프로젝트입니다. 본 개발자는 ALLTV v1.5 부터 코드를 기여하고 있었으나 코드를 공개하는데 민감한 부분이 있어서 별도 프로젝트로 전환합니다(본 개발자는 WAVVE 와 TVING 과 아무런 관련이 없는 순수한 개인 개발자입니다). 
