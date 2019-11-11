@@ -10,11 +10,11 @@
 
 ### 유의 사항
 
-* 이 프로젝트는 
+* WAVVE/TVING 서비스를 제공받기 위해서는 적절한 상품에 가입되어 있어야 합니다. 
 * 이 앱은 WAVVE/TVING 으로부터 정식으로 허가된 앱이 아니기 떄문에 언제든지 서비스가 종료될 수 있습니다.
 * 이 앱은 TVING/WAVVE 의 민감한 정보를 포함할 수 있기 때문에 소스코드를 제공하지 못하니 양해 부탁드립니다. 
 
 
 ### Support or Contact
 
-요청 사항이나 수정사항에 대해서는 Having trouble with Pages? Check out our [이슈](https://github.com/HISONA/allive/issues) 에 남겨주세요.
+요청 사항이나 개선 사항에 대해서는 [이슈](https://github.com/HISONA/allive/issues) 에 남겨주세요.
