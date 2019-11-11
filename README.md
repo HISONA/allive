@@ -7,6 +7,10 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mMsimqnzSzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### 앱 릴리즈
+
+* 릴리즈 링크: [release](https://github.com/HISONA/allive/releases) 
+
 
 ### 유의 사항
 
