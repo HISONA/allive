@@ -1,40 +1,20 @@
-## Welcome to GitHub Pages
+## Allive TV 
 
-You can use the [editor on GitHub](https://github.com/HISONA/allive_release/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Allive TV 는 Android TV 에서 WAVVE 와 TVING 실시간 채널을 시청할 수 있는 Android 앱입니다. 
+* 이 프로젝트는 [ALL TV](https://github.com/PYTHONKOR/alltv) 에서 fork 된 프로젝트입니다. 저는 ALLTV v1.5 부터 코드를 기여하고 있었으나 코드를 공개하는데 민감한 부분이 있어서 별도 프로젝트로 전환합니다. 
+* Allive 앱은 [release](https://github.com/HISONA/allive/releases) 에 배포된 APK 를 Android TV 에 설치해서 사용하시기 바랍니다.
+* 이 프로젝트는 **후원** 에 의해서 운영되고 있습니다. 기부(네이버 페이(hisona)는 이 프로젝트를 계속 진행하는데 힘이 됩니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mMsimqnzSzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Markdown
+### 유의 사항
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 이 프로젝트는 
+* 이 앱은 WAVVE/TVING 으로부터 정식으로 허가된 앱이 아니기 떄문에 언제든지 서비스가 종료될 수 있습니다.
+* 이 앱은 TVING/WAVVE 의 민감한 정보를 포함할 수 있기 때문에 소스코드를 제공하지 못하니 양해 부탁드립니다. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HISONA/allive_release/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+요청 사항이나 수정사항에 대해서는 Having trouble with Pages? Check out our [이슈](https://github.com/HISONA/allive/issues) 에 남겨주세요.
