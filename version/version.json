@@ -1,2 +1,2 @@
 {"LastVersion": "2.3",
-"VersionInfo": "** Release Note **\n\n* Android TV 및 Android Touch 디바이스 지원\n  - 화면 터치하면 Navigation 버튼이 나타남.\n* Player 화면에서 프로그램 정보 수정\n  - 프로그램 정보가 길어지면 정보가 표시되지 않는 현상 수정\n  - 사이트(Wavve/Tving) 정보 아이콘 추가."}
+"VersionInfo": "** Release Note **\n\n* 패키지 업데이트 기능 추가.\n  - 새로운 패키지가 릴리즈되면 다운로드 및 설치 기능 지원.\n  - 앱 실행 시에 권한 추가가 반드시 필요합니다.\n* 프로그램 해상도 표시기능 추가.\n  - 프로그램 정보 화면에 해상도 표시.\n"}
