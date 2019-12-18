@@ -1,2 +1,2 @@
-{"LastVersion": "2.4",
-"VersionInfo": "** Release Note **\n\n* 패키지 업데이트 기능 추가.\n  - 새로운 패키지가 릴리즈되면 다운로드 및 설치 기능 지원.\n  - 앱 실행 시에 권한 추가가 반드시 필요합니다.\n* 프로그램 해상도 표시기능 추가.\n  - 프로그램 정보 화면에 해상도 표시.\n"}
+{"LastVersion": "2.5",
+"VersionInfo": "** Release Note **\n\n(앱 자동 업데이트를 위해서 Install unknown apps 권한 설정이 필요합니다.)\n\n* 프로그램 명이 없을 경우 재상 오류 수정\n  - EPG 정보가 없을 경우 재생 시 크래쉬 오류 수정.\n"}
