@@ -1,2 +1,2 @@
 {"LastVersion": "2.5",
-"VersionInfo": "** Release Note **\n\n(앱 자동 업데이트를 위해서 Install unknown apps 권한 설정이 필요합니다.)\n\n* 프로그램 명이 없을 경우 재상 오류 수정\n  - EPG 정보가 없을 경우 재생 시 크래쉬 오류 수정.\n"}
+"VersionInfo": "** Release Note **\n\n(앱 자동 업데이트를 위해서 Install unknown apps 권한 설정이 필요합니다.)\n\n* 프로그램 명이 없을 경우 재생 오류 수정\n  - EPG 정보가 없을 경우 재생 시 크래쉬 오류 수정.\n"}
