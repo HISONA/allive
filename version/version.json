@@ -1,2 +1,2 @@
-{"LastVersion": "2.5",
-"VersionInfo": "** Release Note **\n\n(앱 자동 업데이트를 위해서 Install unknown apps 권한 설정이 필요합니다.)\n\n* Tving Playlist 가져올 때 오류 체크 기능 추가\n* 코드 정리\n"}
+{"LastVersion": "2.7",
+"VersionInfo": "** Release Note **\n\n(앱 자동 업데이트를 위해서 Install unknown apps 권한 설정이 필요합니다.)\n\n* WAVVE 비밀번호 특수문자 오류 수정.\n* Tving 비밀번호 특수문자 오류 수정.\n* Playlist 가져올 때 오류 체크 기능 추가.\nn"}
