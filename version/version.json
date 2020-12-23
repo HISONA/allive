@@ -1,3 +1,2 @@
-{"LastVersion": "2.9",
-"VersionInfo": "** Release Note **\n\n(앱 자동 업데이트를 위해서 Install unknown apps 권한 설정이 필요합니다.)\n\n* Deprecated API 수정.\n* WAVVE 프로필 선택 기능 추가.\n  (WAVVE 계정 설정에서 설정 저장 후에 다회선 프로필을 설정할 수 있습니다.)\n* 플레이 도중 오류가 발생하면 재접속 시도하도록 수정.\n
-"}
+{"LastVersion": "3.0",
+"VersionInfo": "** Release Note **\n\n(앱 자동 업데이트를 위해서 Install unknown apps 권한 설정이 필요합니다.)\n\n* Deprecated API 수정.\n* 마이채널에서 채널 편집 기능 추가.\n  (마이채널에서 채널을 길게 클릭하여 채널을 좌우로 변경 가능)\n"}
