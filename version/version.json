@@ -1,2 +1,2 @@
-{"LastVersion": "2.9",
+{"LastVersion": "3.0",
 "VersionInfo": "** Release Note **\n\n(앱 자동 업데이트를 위해서 Install unknown apps 권한 설정이 필요합니다.)\n\n* Deprecated API 수정.\n* 마이채널에서 채널 편집 기능 추가.\n  (마이채널에서 채널을 길게 클릭하여 채널을 좌우로 변경 가능)\n"}
