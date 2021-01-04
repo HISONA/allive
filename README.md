@@ -5,7 +5,7 @@
 * Allive 앱은 [release](https://github.com/HISONA/allive/releases) 에 배포된 APK 를 Android TV 에 설치해서 사용하시기 바랍니다.
 * 이 프로젝트는 **후원** 에 의해서 운영되고 있습니다. 기부는 이 프로젝트를 계속 진행하는데 힘이 됩니다(네이버ID: hisona, ([네이버 페이 포인트](https://campaign.naver.com/event/pointgift_howto))).
 * 지금까지 후원해주신 모든 분들께 감사드립니다. 
-  사*정, 최*석, 김*용, 김*준, 한*도, 이*현, 임*얼, 전*준, 허*남, 김*훈(3), 심*익, 신*철, 최*철, O소프o, 문*훈, 김*하, 박*명, 차*준, 박*범, 이*애, 이*구(3), 나*민, 김*호, 김*혁
+  (사**정, 최**석, 김**용, 김**준, 한**도, 이**현, 임**얼, 전**준, 허**남, 김**훈(3), 심**익, 신**철, 최**철, O소프o, 문**훈, 김**하, 박**명, 차**준, 박**범, 이**애, 이**구(3), 나**민, 김**호, 김**혁)
 
 
 <iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/VpkwJZRs6gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
