@@ -22,6 +22,13 @@
 * 이 앱은 TVING/WAVVE 의 민감한 정보를 포함할 수 있기 때문에 소스코드를 제공하지 못하니 양해 부탁드립니다. 
 
 
+### allive TV 분석 공유
+
+* 사용자 경험을 강화하기 위해서 Firebase 용 Google 애널리틱스를 사용하여 사용자 앱 사용량을 분석합니다. 
+* 통계 데이터는 유/무선 네트워크를 통해 Google Firebase 에 전송됩니다. 
+* 개인 정보(이름, ID, 비밀번호 등)와 개인 데이터는 수집되지 않습니다. 
+
+
 ### Support or Contact
 
 요청 사항이나 개선 사항에 대해서는 [이슈](https://github.com/HISONA/allive/issues) 에 남겨주세요.
