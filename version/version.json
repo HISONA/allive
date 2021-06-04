@@ -1,2 +1,3 @@
-{"LastVersion": "3.6",
-"VersionInfo": "** Release Note **\n\n(앱 자동 업데이트를 위해서 Install unknown apps 권한 설정이 필요합니다.\n앱이 실행되지 않을 경우 데이터 삭제를 하고 실행해 보시기 바랍니다.)\n\n * TVING 네이버 로그인 기능 개선.\n * TVING TV(정주행) 이어보기 오류 수정.\n * TVING TV(정주행) EPG 정보 오류 수정.\n "}
+{"LastVersion": "3.7",
+"VersionInfo": "** Release Note **\n\n(앱 자동 업데이트를 위해서 Install unknown apps 권한 설정이 필요합니다.\n앱이 실행되지 않을 경우 데이터 삭제를 하고 실행해 보시기 바랍니다.)\n\n 
+ * TVING 네이버 로그인 기능 개선.\n * TVING TV(정주행) 이어보기 오류 수정.\n * TVING TV(정주행) EPG 정보 오류 수정.\n * TVING 채널만 있을 경우 마이채널 순서 저장안되는 이슈 수정.\n"}
