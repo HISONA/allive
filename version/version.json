@@ -1,2 +1,2 @@
-{"LastVersion": "3.8",
-"VersionInfo": "** Release Note **\n\n(앱 자동 업데이트를 위해서 Install unknown apps 권한 설정이 필요합니다.\n앱이 실행되지 않을 경우 데이터 삭제를 하고 실행해 보시기 바랍니다.)\n\n * TVING 유료채널 표시 제거. \n * 전체화면 옵션에 IMMERSIVE 플래그 추가. \n"}
+{"LastVersion": "3.9",
+"VersionInfo": "** Release Note **\n\n(앱 자동 업데이트를 위해서 Install unknown apps 권한 설정이 필요합니다.\n앱이 실행되지 않을 경우 데이터 삭제를 하고 실행해 보시기 바랍니다.)\n\n * TVING 채널정보 변경사항 수정. \n * 자체볼륨 조정 옵션 추가. \n"}
