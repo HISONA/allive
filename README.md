@@ -1,3 +1,7 @@
+# 공지 
+이제 v4.2 버전을 마지막으로 프로젝트를 중단하려고 합니다. 도저히 생업과 동시에 유지를 하는 것이 어렵군요. 그동안 이용해 주셔서 감사합니다. 
+
+
 ## Allive TV (https://hisona.github.io/allive)
 
 * Allive TV 는 Android TV 에서 WAVVE 와 TVING 실시간 채널을 시청할 수 있는 AndroidTV 앱입니다. 
