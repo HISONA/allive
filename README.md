@@ -10,6 +10,9 @@
 * 이 프로젝트는 [ALL TV](https://github.com/PYTHONKOR/alltv) 에서 fork 된 프로젝트입니다. 그 동안 ALLTV v1.5 부터 코드를 기여하고 있었으나 코드를 공개하는데 민감한 부분이 있어서 별도 프로젝트로 전환하였습니다(이 프로젝트의 개발자는 WAVVE 와 TVING 과는 아무런 관련이 없는 순수한 개인 개발자입니다). 
 * Allive 앱은 [release](https://github.com/HISONA/allive/releases) 에 배포된 APK 를 Android TV 에 설치해서 사용하시기 바랍니다.
 
+<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/VpkwJZRs6gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ### 앱 릴리즈
 
 * 릴리즈 링크: [release](https://github.com/HISONA/allive/releases) 
